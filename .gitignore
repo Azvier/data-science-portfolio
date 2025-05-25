@@ -1,3 +1,6 @@
+# Ignore project planning documents
+_planning/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
