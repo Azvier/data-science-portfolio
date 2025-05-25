@@ -8,7 +8,7 @@
 
 ## 😎 About Me
 
-I am a dedicated Statistics student at Hasanuddin University with a core expertise in **data analysis, visualization, and business intelligence**. My experience extends to research, project coordination, and statistical modeling, and I am proficient with tools such as Python, R Studio, IBM SPSS, and Microsoft Excel.
+I am a dedicated Statistics student at Hasanuddin University with a core expertise in **data analysis, visualization, and business intelligence**. My experience extends to research, project coordination, and statistical modeling, and I am proficient with tools such as Python, R Studio, IBM SPSS, Microsoft Excel, and BI Tools (e.g. Power BI, Tableau).
 
 My objective is to apply these skills to support effective, data-informed decision-making within business and policy contexts. I am passionate about uncovering the stories hidden within data and developing solutions that drive impactful outcomes. This repository serves as a showcase of my journey and projects in the world of data.
 
